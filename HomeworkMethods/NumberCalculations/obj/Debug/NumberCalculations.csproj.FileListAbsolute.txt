@@ -1,0 +1,6 @@
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkMethods\NumberCalculations\bin\Debug\NumberCalculations.exe.config
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkMethods\NumberCalculations\bin\Debug\NumberCalculations.exe
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkMethods\NumberCalculations\bin\Debug\NumberCalculations.pdb
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkMethods\NumberCalculations\obj\Debug\NumberCalculations.csprojResolveAssemblyReference.cache
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkMethods\NumberCalculations\obj\Debug\NumberCalculations.exe
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkMethods\NumberCalculations\obj\Debug\NumberCalculations.pdb

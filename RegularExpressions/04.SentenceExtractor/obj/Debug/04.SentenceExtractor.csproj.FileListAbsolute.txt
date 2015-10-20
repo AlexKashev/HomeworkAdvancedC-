@@ -1,0 +1,5 @@
+c:\users\mariana\documents\visual studio 2013\Projects\RegularExpressions\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.exe.config
+c:\users\mariana\documents\visual studio 2013\Projects\RegularExpressions\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.exe
+c:\users\mariana\documents\visual studio 2013\Projects\RegularExpressions\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.pdb
+c:\users\mariana\documents\visual studio 2013\Projects\RegularExpressions\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.exe
+c:\users\mariana\documents\visual studio 2013\Projects\RegularExpressions\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.pdb

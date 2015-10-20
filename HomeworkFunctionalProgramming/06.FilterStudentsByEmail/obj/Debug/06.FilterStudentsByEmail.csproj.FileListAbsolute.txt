@@ -1,0 +1,6 @@
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkFunctionalProgramming\06.FilterStudentsByEmail\bin\Debug\06.FilterStudentsByEmail.exe.config
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkFunctionalProgramming\06.FilterStudentsByEmail\obj\Debug\06.FilterStudentsByEmail.csprojResolveAssemblyReference.cache
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkFunctionalProgramming\06.FilterStudentsByEmail\bin\Debug\06.FilterStudentsByEmail.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkFunctionalProgramming\06.FilterStudentsByEmail\bin\Debug\06.FilterStudentsByEmail.pdb
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkFunctionalProgramming\06.FilterStudentsByEmail\obj\Debug\06.FilterStudentsByEmail.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkFunctionalProgramming\06.FilterStudentsByEmail\obj\Debug\06.FilterStudentsByEmail.pdb

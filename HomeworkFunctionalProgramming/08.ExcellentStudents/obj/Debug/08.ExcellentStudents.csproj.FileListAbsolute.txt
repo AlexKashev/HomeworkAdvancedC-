@@ -1,0 +1,5 @@
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkFunctionalProgramming\08.ExcellentStudents\bin\Debug\08.ExcellentStudents.exe.config
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkFunctionalProgramming\08.ExcellentStudents\bin\Debug\08.ExcellentStudents.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkFunctionalProgramming\08.ExcellentStudents\bin\Debug\08.ExcellentStudents.pdb
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkFunctionalProgramming\08.ExcellentStudents\obj\Debug\08.ExcellentStudents.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkFunctionalProgramming\08.ExcellentStudents\obj\Debug\08.ExcellentStudents.pdb

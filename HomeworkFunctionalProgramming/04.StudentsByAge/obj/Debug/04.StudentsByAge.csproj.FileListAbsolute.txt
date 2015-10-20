@@ -1,0 +1,5 @@
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkFunctionalProgramming\04.StudentsByAge\bin\Debug\04.StudentsByAge.exe.config
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkFunctionalProgramming\04.StudentsByAge\bin\Debug\04.StudentsByAge.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkFunctionalProgramming\04.StudentsByAge\bin\Debug\04.StudentsByAge.pdb
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkFunctionalProgramming\04.StudentsByAge\obj\Debug\04.StudentsByAge.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkFunctionalProgramming\04.StudentsByAge\obj\Debug\04.StudentsByAge.pdb

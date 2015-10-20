@@ -1,0 +1,6 @@
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeworkFilesAndStreams\CopyBinaryFile\bin\Debug\CopyBinaryFile.exe.config
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeworkFilesAndStreams\CopyBinaryFile\obj\Debug\CopyBinaryFile.csprojResolveAssemblyReference.cache
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeworkFilesAndStreams\CopyBinaryFile\bin\Debug\CopyBinaryFile.exe
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeworkFilesAndStreams\CopyBinaryFile\bin\Debug\CopyBinaryFile.pdb
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeworkFilesAndStreams\CopyBinaryFile\obj\Debug\CopyBinaryFile.exe
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeworkFilesAndStreams\CopyBinaryFile\obj\Debug\CopyBinaryFile.pdb

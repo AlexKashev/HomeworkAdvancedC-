@@ -1,0 +1,6 @@
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkArray\SortArrayWithSelectionPort\bin\Debug\SortArrayWithSelectionPort.exe.config
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkArray\SortArrayWithSelectionPort\bin\Debug\SortArrayWithSelectionPort.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkArray\SortArrayWithSelectionPort\bin\Debug\SortArrayWithSelectionPort.pdb
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkArray\SortArrayWithSelectionPort\obj\Debug\SortArrayWithSelectionPort.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkArray\SortArrayWithSelectionPort\obj\Debug\SortArrayWithSelectionPort.pdb
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkArray\SortArrayWithSelectionPort\obj\Debug\SortArrayWithSelectionPort.csprojResolveAssemblyReference.cache

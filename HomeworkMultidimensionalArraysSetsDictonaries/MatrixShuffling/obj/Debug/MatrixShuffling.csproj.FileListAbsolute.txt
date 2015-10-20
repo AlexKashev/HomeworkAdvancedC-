@@ -1,0 +1,5 @@
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkMultidimensionalArraysSetsDictonaries\MatrixShuffling\bin\Debug\MatrixShuffling.exe.config
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkMultidimensionalArraysSetsDictonaries\MatrixShuffling\bin\Debug\MatrixShuffling.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkMultidimensionalArraysSetsDictonaries\MatrixShuffling\bin\Debug\MatrixShuffling.pdb
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkMultidimensionalArraysSetsDictonaries\MatrixShuffling\obj\Debug\MatrixShuffling.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkMultidimensionalArraysSetsDictonaries\MatrixShuffling\obj\Debug\MatrixShuffling.pdb

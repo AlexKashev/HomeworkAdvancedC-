@@ -1,0 +1,5 @@
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkStrings\TextFilter\bin\Debug\TextFilter.exe.config
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkStrings\TextFilter\bin\Debug\TextFilter.exe
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkStrings\TextFilter\bin\Debug\TextFilter.pdb
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkStrings\TextFilter\obj\Debug\TextFilter.exe
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkStrings\TextFilter\obj\Debug\TextFilter.pdb

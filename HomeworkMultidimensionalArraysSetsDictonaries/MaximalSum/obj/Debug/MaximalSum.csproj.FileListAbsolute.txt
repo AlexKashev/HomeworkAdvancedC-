@@ -1,0 +1,6 @@
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkMultidimensionalArraysSetsDictonaries\MaximalSum\bin\Debug\MaximalSum.exe.config
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkMultidimensionalArraysSetsDictonaries\MaximalSum\bin\Debug\MaximalSum.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkMultidimensionalArraysSetsDictonaries\MaximalSum\bin\Debug\MaximalSum.pdb
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkMultidimensionalArraysSetsDictonaries\MaximalSum\obj\Debug\MaximalSum.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkMultidimensionalArraysSetsDictonaries\MaximalSum\obj\Debug\MaximalSum.pdb
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkMultidimensionalArraysSetsDictonaries\MaximalSum\obj\Debug\MaximalSum.csprojResolveAssemblyReference.cache

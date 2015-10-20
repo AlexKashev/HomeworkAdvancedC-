@@ -1,0 +1,5 @@
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkMethods\ReversedNumbers\bin\Debug\ReversedNumbers.exe.config
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkMethods\ReversedNumbers\bin\Debug\ReversedNumbers.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkMethods\ReversedNumbers\bin\Debug\ReversedNumbers.pdb
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkMethods\ReversedNumbers\obj\Debug\ReversedNumbers.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkMethods\ReversedNumbers\obj\Debug\ReversedNumbers.pdb

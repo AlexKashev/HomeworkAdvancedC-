@@ -1,0 +1,5 @@
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkFunctionalProgramming\09.WeakStudents\bin\Debug\09.WeakStudents.exe.config
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkFunctionalProgramming\09.WeakStudents\bin\Debug\09.WeakStudents.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkFunctionalProgramming\09.WeakStudents\bin\Debug\09.WeakStudents.pdb
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkFunctionalProgramming\09.WeakStudents\obj\Debug\09.WeakStudents.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkFunctionalProgramming\09.WeakStudents\obj\Debug\09.WeakStudents.pdb

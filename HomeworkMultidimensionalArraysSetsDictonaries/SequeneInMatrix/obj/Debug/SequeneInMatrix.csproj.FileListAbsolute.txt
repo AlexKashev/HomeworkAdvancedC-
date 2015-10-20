@@ -1,0 +1,6 @@
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkMultidimensionalArraysSetsDictonaries\SequeneInMatrix\bin\Debug\SequeneInMatrix.exe.config
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkMultidimensionalArraysSetsDictonaries\SequeneInMatrix\bin\Debug\SequeneInMatrix.exe
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkMultidimensionalArraysSetsDictonaries\SequeneInMatrix\bin\Debug\SequeneInMatrix.pdb
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkMultidimensionalArraysSetsDictonaries\SequeneInMatrix\obj\Debug\SequeneInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkMultidimensionalArraysSetsDictonaries\SequeneInMatrix\obj\Debug\SequeneInMatrix.exe
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkMultidimensionalArraysSetsDictonaries\SequeneInMatrix\obj\Debug\SequeneInMatrix.pdb

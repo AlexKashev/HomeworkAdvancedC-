@@ -1,0 +1,5 @@
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkFunctionalProgramming\02.StudentsByGroup\bin\Debug\02.StudentsByGroup.exe.config
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkFunctionalProgramming\02.StudentsByGroup\bin\Debug\02.StudentsByGroup.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkFunctionalProgramming\02.StudentsByGroup\bin\Debug\02.StudentsByGroup.pdb
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkFunctionalProgramming\02.StudentsByGroup\obj\Debug\02.StudentsByGroup.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkFunctionalProgramming\02.StudentsByGroup\obj\Debug\02.StudentsByGroup.pdb

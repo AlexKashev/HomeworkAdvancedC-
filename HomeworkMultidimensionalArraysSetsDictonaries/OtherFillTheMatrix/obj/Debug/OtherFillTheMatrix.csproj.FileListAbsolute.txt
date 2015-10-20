@@ -1,0 +1,6 @@
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkMultidimensionalArraysSetsDictonaries\OtherFillTheMatrix\bin\Debug\OtherFillTheMatrix.exe.config
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkMultidimensionalArraysSetsDictonaries\OtherFillTheMatrix\bin\Debug\OtherFillTheMatrix.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkMultidimensionalArraysSetsDictonaries\OtherFillTheMatrix\bin\Debug\OtherFillTheMatrix.pdb
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkMultidimensionalArraysSetsDictonaries\OtherFillTheMatrix\obj\Debug\OtherFillTheMatrix.csprojResolveAssemblyReference.cache
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkMultidimensionalArraysSetsDictonaries\OtherFillTheMatrix\obj\Debug\OtherFillTheMatrix.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkMultidimensionalArraysSetsDictonaries\OtherFillTheMatrix\obj\Debug\OtherFillTheMatrix.pdb

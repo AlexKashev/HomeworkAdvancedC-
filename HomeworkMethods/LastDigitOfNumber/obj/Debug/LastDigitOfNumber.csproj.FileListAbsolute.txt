@@ -1,0 +1,5 @@
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkMethods\LastDigitOfNumber\bin\Debug\LastDigitOfNumber.exe.config
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkMethods\LastDigitOfNumber\bin\Debug\LastDigitOfNumber.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkMethods\LastDigitOfNumber\bin\Debug\LastDigitOfNumber.pdb
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkMethods\LastDigitOfNumber\obj\Debug\LastDigitOfNumber.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkMethods\LastDigitOfNumber\obj\Debug\LastDigitOfNumber.pdb

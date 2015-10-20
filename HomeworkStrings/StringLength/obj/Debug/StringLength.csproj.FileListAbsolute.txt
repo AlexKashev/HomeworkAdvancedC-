@@ -1,0 +1,5 @@
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkStrings\StringLength\bin\Debug\StringLength.exe.config
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkStrings\StringLength\bin\Debug\StringLength.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkStrings\StringLength\bin\Debug\StringLength.pdb
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkStrings\StringLength\obj\Debug\StringLength.exe
+c:\users\mariana\documents\visual studio 2013\Projects\HomeWorkStrings\StringLength\obj\Debug\StringLength.pdb

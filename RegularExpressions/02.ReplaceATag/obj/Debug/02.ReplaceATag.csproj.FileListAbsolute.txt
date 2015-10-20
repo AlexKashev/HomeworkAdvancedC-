@@ -1,0 +1,5 @@
+c:\users\mariana\documents\visual studio 2013\Projects\RegularExpressions\02.ReplaceATag\bin\Debug\02.ReplaceATag.exe.config
+c:\users\mariana\documents\visual studio 2013\Projects\RegularExpressions\02.ReplaceATag\bin\Debug\02.ReplaceATag.exe
+c:\users\mariana\documents\visual studio 2013\Projects\RegularExpressions\02.ReplaceATag\bin\Debug\02.ReplaceATag.pdb
+c:\users\mariana\documents\visual studio 2013\Projects\RegularExpressions\02.ReplaceATag\obj\Debug\02.ReplaceATag.exe
+c:\users\mariana\documents\visual studio 2013\Projects\RegularExpressions\02.ReplaceATag\obj\Debug\02.ReplaceATag.pdb

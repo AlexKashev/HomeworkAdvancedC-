@@ -1,0 +1,6 @@
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkMultidimensionalArraysSetsDictonaries\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkMultidimensionalArraysSetsDictonaries\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkMultidimensionalArraysSetsDictonaries\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkMultidimensionalArraysSetsDictonaries\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkMultidimensionalArraysSetsDictonaries\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkMultidimensionalArraysSetsDictonaries\PhoneBook\obj\Debug\PhoneBook.pdb
