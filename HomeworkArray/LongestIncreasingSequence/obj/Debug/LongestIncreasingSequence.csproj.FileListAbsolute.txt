@@ -1,0 +1,5 @@
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkArray\LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.exe.config
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkArray\LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.exe
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkArray\LongestIncreasingSequence\bin\Debug\LongestIncreasingSequence.pdb
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkArray\LongestIncreasingSequence\obj\Debug\LongestIncreasingSequence.exe
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkArray\LongestIncreasingSequence\obj\Debug\LongestIncreasingSequence.pdb

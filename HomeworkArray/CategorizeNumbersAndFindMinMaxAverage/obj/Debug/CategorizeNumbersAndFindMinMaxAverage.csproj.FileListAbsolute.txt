@@ -1,0 +1,5 @@
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkArray\CategorizeNumbersAndFindMinMaxAverage\bin\Debug\CategorizeNumbersAndFindMinMaxAverage.exe.config
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkArray\CategorizeNumbersAndFindMinMaxAverage\bin\Debug\CategorizeNumbersAndFindMinMaxAverage.exe
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkArray\CategorizeNumbersAndFindMinMaxAverage\bin\Debug\CategorizeNumbersAndFindMinMaxAverage.pdb
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkArray\CategorizeNumbersAndFindMinMaxAverage\obj\Debug\CategorizeNumbersAndFindMinMaxAverage.exe
+C:\Users\Mariana\Documents\Visual Studio 2013\Projects\HomeWorkArray\CategorizeNumbersAndFindMinMaxAverage\obj\Debug\CategorizeNumbersAndFindMinMaxAverage.pdb
